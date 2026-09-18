@@ -1,8 +1,8 @@
 # Pemrograman_GhafarRafifFakhrizal_Tourmaline_TLS26
 # Pemrograman Dasar TLS 2026
 
-**Nama:** [Nama Lengkap Kamu]  
-**Kelompok:** [Nama/Nomor Kelompok Kamu]  
+**Nama:** Ghafar Rafif Fakhrizal 
+**Kelompok:** Tourmaline 
 
 ---
 
